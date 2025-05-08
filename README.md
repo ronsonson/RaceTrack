@@ -9,8 +9,9 @@ This program was made as the final project for my Computer Graphics class at Ore
 In order to run the program I reccomend using Visual Studio 2022. After cloning, open the sample.sln file with Visual Studio. First build the program then you can run from the Visual Studio debug menu.
 
 A few screenshots of the program running:
-![RaceTrack screenshot](https://github.com/user-attachments/assets/1e24050d-f853-475f-b53c-e72af51c4455)
-![RaceTrack screenshot 2](https://github.com/user-attachments/assets/c899bf1f-de1b-4c86-ab57-8baa1133d9df)
+![RaceTrack screenshot](https://github.com/user-attachments/assets/6b5bb166-e4e9-4616-8894-1c724d163b61)
+
+![RaceTrack screenshot 2](https://github.com/user-attachments/assets/d75ebf01-1696-48d0-8ff6-909f051d1f9d)
 
 
 
